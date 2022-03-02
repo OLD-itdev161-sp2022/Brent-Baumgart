@@ -91,6 +91,7 @@ app.get('/', (req, res) => {
                     }
                 ); 
 
+                console.log("new user added");
             } catch (error) {
                 res.status(500).send('Server error');
             }
