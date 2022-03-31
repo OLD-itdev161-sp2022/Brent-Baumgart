@@ -1,7 +1,7 @@
 {
   "name": "Brent Baumgart",
   "version": "1.0.0",
-  "description": "itdev161 assignments",
+  "description": "itdev-161 assignments",
   "main": "index.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
